@@ -10,6 +10,7 @@ Welcome to my GitHub profile! I'm **Shreya** ✨, a passionate data enthusiast e
 Here's a glimpse of the technologies I'm working with:
 - 📈 **Data Science** 
 - 🤖 **Machine Learning** 
+- 🧠 **Deep Learning** 
 - 🗣️ **NLP (Natural Language Processing)** 
 - 🐍 **Python** 
 - 🔍 **Exploratory Data Analysis (EDA)** 
@@ -31,4 +32,3 @@ I’d love to connect with fellow data enthusiasts, so feel free to reach out to
 When I'm not analyzing data, you can find me exploring local cafes ☕ or hiking the beautiful trails around Bangalore! 🏞️
 
 Thank you for visiting my profile. Let's embark on this data journey together! 🎉
-
