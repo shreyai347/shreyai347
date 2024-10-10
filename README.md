@@ -29,6 +29,7 @@ I’d love to connect with fellow data enthusiasts, so feel free to reach out to
 - 🔗 LinkedIn: [Shreya Nagarbawdi](https://www.linkedin.com/in/shreya-nagarbawdi-a7749a24a/)
 
 ## ⚡ Fun Fact
-When I'm not analyzing data, you can find me exploring local cafes ☕ or hiking the beautiful trails around Bangalore! 🏞️
+When I'm not analyzing data,  I'm hanging out with friends ☕ and watching series!🏞️
+around Bangalore! 
 
 Thank you for visiting my profile. Let's embark on this data journey together! 🎉
