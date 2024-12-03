@@ -27,7 +27,7 @@ I’d love to connect with fellow data enthusiasts, so feel free to reach out to
 
 - ✉️ Email: [shreyashreya2322@gmail.com](mailto:shreyashreya2322@gmail.com)
 - 🔗 LinkedIn: [Shreya Nagarbawdi](https://www.linkedin.com/in/shreya-nagarbawdi-a7749a24a/)
-- 🌐 Portfolio: [Check out my portfolio!](https://shreyai347.github.io/portfolio/)
+- 🌐 Portfolio: [Check out!](https://shreyai347.github.io/portfolio/)
 
 ## ⚡ Fun Fact
 When I'm not analyzing data,  I'm hanging out with friends ☕ and watching series!🏞️! 
