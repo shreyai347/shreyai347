@@ -17,7 +17,8 @@ Here's a glimpse of the technologies I'm working with:
 - 🗄️ **SQL** 
 - 📊 **Power BI** 
 - 📝 **Jupyter/Google Colab** 
-- 🌐 **Flask** 
+- 🌐 **Flask**
+- 🤖📚 **LLMs**
 
 ## 🌟 Fun Fact
 I believe data is like a treasure chest; the more you dig, the more you discover! 🏴‍☠️💎
