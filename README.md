@@ -81,8 +81,6 @@ I turn complex realtime systems into silky-smooth mobile experiences — elegant
 - Built **Profit Book** — live market data, OAuth flows, in-app purchases.  
 - Love: micro-animations, chart performance, API orchestration.
 
-## 🔗 Links
-Portfolio • LinkedIn • Email
 
 ---
 
