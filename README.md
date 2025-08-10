@@ -7,7 +7,12 @@
 
 ## 🌟 About Me
 
+shreya@github:~$ flutter run "About Me"
 
+Passionate Flutter developer (Dart ecosystem)
+Real-time, full-stack apps w/ sleek UI
+Based in Bangalore, India's tech capital 🇮🇳
+Elegant code, smooth, data-driven UX
 ---
 
 ## 🛠️ Tech Toolbox
