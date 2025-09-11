@@ -1,4 +1,4 @@
-# Shreya Nagarbawdi — Flutter Developer 🚀
+# Shreya — Flutter Developer 🚀
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1200&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Shreya+%E2%9C%A8+%7C+Flutter+Developer;I+build+real-time+apps+with+beautiful+UX" alt="Typing SVG" />
